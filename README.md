@@ -1,4 +1,5 @@
 # Hola 👋, yo soy Edu!!!
+
 Soy un amante de la tecnología, me encanta sorprenderme día a día lo que, con 🔭 ingenio✨, dedicación podemos ir consiguiendo y creando. 
 
 Me desenvuelvo actualmente como desarrollador usando las siguientes tecnologías:
@@ -22,3 +23,4 @@ Mis proyectos personales👌, cursos y experiencia previa me han permitido apren
 
 Habilidades: JAVA 🧐/ HTML / CSS / Angular / Python
 
+![CoreKeeperCoreGIF](https://github.com/educonrado/educonrado/assets/21340842/99e554b7-2f2f-45e3-af52-68ce2daa533f)
